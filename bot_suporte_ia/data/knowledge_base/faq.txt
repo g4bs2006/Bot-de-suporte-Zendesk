@@ -1,0 +1,65 @@
+=== MANUAL DE ATENDIMENTO E SUPORTE TÉCNICO - EXEMPLO NET ===
+
+SEÇÃO 1: SUPORTE TÉCNICO E CONEXÃO
+
+1.1. Diagnóstico de Luzes do Modem (ONU)
+- Luz PON Verde fixa: O sinal de fibra está chegando corretamente. Se não navega, pode ser problema no roteador ou bloqueio financeiro.
+- Luz LOS Vermelha piscando: Indica rompimento de fibra óptica na rua ou no poste. O cliente não consegue resolver sozinho. Ação: Abrir chamado técnico para visita.
+- Luzes apagadas: Verifique se a fonte de energia está ligada na tomada. Teste em outra tomada.
+
+1.2. Lentidão na Internet
+- Testes via Wi-Fi não garantem a velocidade contratada devido a interferências.
+- A garantia de velocidade é válida apenas para testes via cabo de rede (Cat5e ou superior) conectado diretamente a um computador com placa Gigabit.
+- Para Wi-Fi, recomende conectar na rede "5G" (5GHz) e ficar próximo ao roteador.
+
+1.3. Troca de Senha do Wi-Fi
+- O cliente pode trocar a senha pelo aplicativo "ExemploNet Cliente".
+- Se preferir fazer pelo navegador: Acessar 192.168.1.1, usuário "admin", senha padrão (verificar etiqueta embaixo do roteador).
+
+1.4. Internet Oscilando (Cai e volta)
+- Procedimento padrão: Desligar o modem da tomada por 30 segundos e ligar novamente. Isso limpa o cache da conexão.
+- Se persistir, verificar se o cabo de fibra não está dobrado ou amassado atrás do móvel.
+
+---
+
+SEÇÃO 2: FINANCEIRO E COBRANÇA
+
+2.1. Segunda Via de Boleto
+- Disponível no site www.exemplonet.com.br/boleto (basta digitar o CPF).
+- Também disponível no App oficial.
+- O envio por e-mail é automático 5 dias antes do vencimento.
+
+2.2. Desbloqueio de Confiança (Promessa de Pagamento)
+- Se o serviço foi bloqueado por falta de pagamento, o cliente pode solicitar o "Desbloqueio em Confiança" uma vez a cada 30 dias.
+- O sinal é liberado por 48 horas para que o cliente possa efetuar o pagamento.
+- Se o pagamento não for compensado após 48h, o bloqueio retorna e só sai com a compensação bancária.
+
+2.3. Pagamento via PIX
+- Pagamentos via PIX (QR Code na fatura) são compensados e liberam o sinal em até 30 minutos, 24 horas por dia.
+- Pagamentos via código de barras (boleto bancário) podem levar até 1 dia útil (não compensa final de semana).
+
+---
+
+SEÇÃO 3: PLANOS E CONTRATOS
+
+3.1. Mudança de Endereço
+- A mudança de endereço tem uma taxa de reinstalação de R$ 90,00.
+- É necessário verificar a viabilidade técnica no novo endereço (bairro/rua) antes de confirmar.
+- O agendamento deve ser feito com no mínimo 3 dias úteis de antecedência.
+
+3.2. Cancelamento de Plano
+- Para cancelamentos, é obrigatório o contato telefônico com o setor de Retenção (0800 123 4567) ou transferência para atendente humano neste chat.
+- Planos com fidelidade de 12 meses possuem multa proporcional aos meses restantes em caso de cancelamento antecipado.
+
+3.3. Upgrade de Plano
+- Clientes ativos há mais de 6 meses podem solicitar upgrade de velocidade sem taxa de adesão.
+- Planos disponíveis: 
+  * 300 Mega por R$ 99,90
+  * 600 Mega por R$ 119,90
+  * 1 Giga (1000 Mega) por R$ 149,90
+
+---
+
+SEÇÃO 4: CANAIS DE ATENDIMENTO
+- Horário de Atendimento Humano: Segunda a Sexta das 08:00 às 18:00. Sábados das 08:00 às 12:00.
+- Suporte Técnico (Plantão): 24h apenas para casos de "LOS Vermelha" ou queda massiva na região.
